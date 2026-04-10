@@ -40,12 +40,18 @@ https://github.com/R0rt1z2/kaeru/releases
 
 - # e escolha o nome do seu dispositivo  no meu caso é Motorola Moto E7 Power (malta_l-kaeru.bin), baixe o .bin
 
-- # agora você para a parte write que fica ao lado da read lá você vai proucurar a lk_a e lk_b. clique em set  e selecione o malta_l-kaeru.bin tanto no lk_a quanto no lk_b. 
+- # agora você para a parte write que fica ao lado da read lá você vai proucurar a lk_a e lk_b. clique em set  e selecione o malta_l-kaeru.bin tanto no lk_a quanto no lk_b.
+
+- 
+<img width="747" height="744" alt="image" src="https://github.com/user-attachments/assets/0444c72a-58e8-45ca-817f-69bf5a310c40" />
 
 
 - # vá até erase ao lado de write e selecione (metadata,md_udc e userdata) e depois clique em erase.
 
 
-- # em flash tools clique em unlock bootloader e pronto está desbloqueado.
+- # em flash tools clique em unlock bootloader e pronto está desbloqueado.<img width="752" height="757" alt="image" src="https://github.com/user-attachments/assets/18946b2a-86ec-4cdc-9c19-ad4fb9fe12d4" />
+
+
+- 
 
 
