@@ -31,9 +31,9 @@
 
 
 - # agora vai até :
-```
+
 https://github.com/R0rt1z2/kaeru/releases
-```
+
 
 - # e escolha o nome do seu dispositivo  no meu caso é Motorola Moto E7 Power (malta_l-kaeru.bin), baixe o .bin
 
