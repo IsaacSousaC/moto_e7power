@@ -27,6 +27,9 @@
 - # faça um backup das suas partições clicando em select all dump e não faça backup da userdata.
 
 
+<img width="748" height="752" alt="image" src="https://github.com/user-attachments/assets/5ac4188a-4bfc-43ed-829a-0d34b5f1ef66" />
+
+
 
 
 
