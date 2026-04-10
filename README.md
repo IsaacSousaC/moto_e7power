@@ -1,5 +1,5 @@
 
-# PRecisa de pc e vai apagar seus arquivos
+# precisa de pc e o seus dados vão ser apagados no processo
 
 # 1° PASSO 
 - # MTK-CLIENT (https://github.com/bkerler/mtkclient)
